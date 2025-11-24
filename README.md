@@ -11,6 +11,23 @@ The goal of this repository is to improve my Python skills through consistent pr
 ---
 
 ## 📂 Repository Structure
+my-python-learning/
+│
+├── python-exercises/
+│   ├── 01_variables/
+│   ├── 02_conditions/
+│   ├── 03_loops/
+│   ├── 04_functions/
+│   ├── 05_lists/
+│   ├── 06_dictionaries/
+│   └── 07_file_handling/
+│
+└── mini-projects/
+    ├── expense_tracker/
+    ├── order_management/
+    ├── student_grades/
+    ├── contact_book/
+    └── bank_simulator/
 
 
 ---
